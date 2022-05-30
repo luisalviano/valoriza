@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Valoriza 🎉</h1>
+<h1 align="center">Valoriza 🎉</h1>
 
 Compliments exchange API, build to promote acknowledgment between team members. Project developed during [Rocketseat](https://www.rocketseat.com.br/)'s 6th Next Level Week event.
 
@@ -76,4 +76,4 @@ The application should start running on http://localhost:3000.
 - [x] The user must be authenticated to register compliments.
 
 #
-<p style="text-align:center">Made with 💜 by <a href="https://www.linkedin.com/in/marialuizasalviano/">Maria Luiza Salviano</a></p>
+<p align="center">Made with 💜 by <a href="https://www.linkedin.com/in/marialuizasalviano/">Maria Luiza Salviano</a></p>
